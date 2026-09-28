@@ -1,8 +1,8 @@
 # Arthur de Carvalho
 ## About Me
-**`Desenvolvedor de software e jogos em formação`**
+**`Desenvolvedor de Software e Jogos em formação`**
 
-> Sou estudante de Programação de Jogos Digitais no IFAM, focado em desenvolvimento de software, jogos e sistemas computacionais. Tenho experiência prática principalmente com **C#** e **JS**, **Python** e **C++**. No desenvolvimento de jogos, trabalho com **Godot** e **Unity**, enquanto no desenvolvimento web utilizo tecnologias como **HTML**, **CSS**, **Bootstrap** e **Firebase**. Também desenvolvo projetos envolvendo **Arduino** e **ESP32**, explorando a integração entre software e hardware. 
+> Menu nome é Arthur de Carvalho Corrêa Cerqueira, sou estudante de Programação de Jogos Digitais no IFAM, focado em desenvolvimento de software, jogos e sites. Tenho experiência prática principalmente com **C#** e **JS**, **Python**. No desenvolvimento de jogos, trabalho com **Godot** e **Unity**, enquanto no desenvolvimento web utilizo tecnologias como **HTML**, **CSS**, **Bootstrap** e **Firebase**. Também desenvolvo projetos envolvendo **Arduino** e **ESP32**, explorando a integração entre software e hardware. 
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
