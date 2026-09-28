@@ -5,14 +5,14 @@
 > Menu nome é Arthur de Carvalho Corrêa Cerqueira, sou estudante de Programação de Jogos Digitais no IFAM, focado em desenvolvimento de software, jogos e sites. Tenho experiência prática principalmente com **C#** e **JS**, **Python**. No desenvolvimento de jogos, trabalho com **Godot** e **Unity**, enquanto no desenvolvimento web utilizo tecnologias como **HTML**, **CSS**, **Bootstrap** e **Firebase**. Também desenvolvo projetos envolvendo **Arduino** e **ESP32**, explorando a integração entre software e hardware. 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ArthurCarvalhoCC?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/ArthurCarvalhoCC?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ArthurCarvalhoCC?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
