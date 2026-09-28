@@ -130,21 +130,22 @@
 <br/>
 <br/>
 
+---
+
 ## Stats
 
 <p>
-<img 
-align="left" 
-alt="GitHub Stats" 
-height="200" 
-style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=ArthurCarvalhoCC&show_icons=true" 
-/>
-
-<img 
+    <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCarvalhoCC" 
-/>
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=ArthurCarvalhoCC&show_icons=true&theme=dark" 
+    />
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurCarvalhoCC&theme=dark" 
+    />
 </p>
