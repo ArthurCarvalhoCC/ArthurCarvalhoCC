@@ -51,7 +51,7 @@ Também desenvolvo projetos envolvendo **Arduino e ESP32**, explorando a integra
 
 ## Tecnologias
 
-### Linguagens de Programação
+### Code Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" hspace="4title="C#" alt="C#">
@@ -76,7 +76,7 @@ Também desenvolvo projetos envolvendo **Arduino e ESP32**, explorando a integra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" hspace="4title="Unity" alt="Unity">
 </p>
 
-### Hardware & Ferramentas
+### Hardware & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" hspace="4title="Arduino" alt="Arduino">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/espressif.svg" width="40" hspace="4title="ESP32 / Espressif" alt="ESP32">
@@ -92,89 +92,6 @@ Também desenvolvo projetos envolvendo **Arduino e ESP32**, explorando a integra
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=ArthurCarvalhoCC&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurCarvalhoCC&theme=dark" alt="Linguagens mais utilizadas">
 </p>
-
----
-
-# Projetos
-
-## IFAM GameHub
-
-**Plataforma web para jogos, usuários, pontuações e rankings.**
-
-O GameHub é uma plataforma que reúne os jogos desenvolvidos no projeto em um sistema centralizado de usuários e pontuações.
-
-A plataforma permite cadastrar usuários, salvar dados de partidas, compartilhar pontuações entre os jogos e acompanhar o desempenho através de rankings e estatísticas.
-
-### Principais sistemas
-
-* Cadastro e autenticação de usuários
-* Sistema de salvamento
-* Rankings por jogo
-* Estatísticas e histórico de partidas
-* Configurações do usuário
-* Integração com os jogos desenvolvidos
-* Aplicação hospedada na web
-
-**Tecnologias**
-
-`HTML` `CSS` `JavaScript` `Bootstrap` `Firebase`
-
-**Status:** `Finalizado`
-
-<p align="center">
-  <a href="https://jogos-web-ifam-login-9b5c9.web.app/dashboard.html">
-    <img src="https://img.shields.io/badge/VER_DEMO-4285F4?style=for-the-badge&logo=firebase&logoColor=white" alt="Ver Demo">
-  </a>
-  <a href="https://github.com/ArthurCarvalhoCC/GameHub-Web-em-Nuvem-Multijogador">
-    <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
-  </a>
-</p>
-
----
-
-## Voxel Procedural Engine
-
-**Estudo de geração procedural de mundos 3D utilizando voxels.**
-
-Projeto individual desenvolvido em **Unity e C#**, com foco no estudo de geração procedural e na construção de uma base para criação de mundos tridimensionais voxel otimizados e interativos.
-
-O projeto explora diferentes problemas relacionados à representação, geração e renderização de grandes ambientes.
-
-### Sistemas desenvolvidos
-
-* Sistema de **Chunks**
-* **Face Culling** para redução de faces desnecessárias
-* Geração procedural de terreno
-* Texturização através de **Texture Atlas**
-* Diferentes texturas para diferentes faces dos blocos
-* Sistema de **Render Distance**
-* Estruturação e otimização da renderização do mundo
-
-**Tecnologias**
-
-`Unity` `C#`
-
-**Status:** `Em desenvolvimento`
-
-<p align="center">
-  <a href="https://github.com/ArthurCarvalhoCC/Gerador-de-Terreno-Voxel-Procedural">
-    <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
-  </a>
-</p>
-
-> O projeto também será utilizado como tema para meu **PCCT**, com foco em geração procedural.
-
----
-
-# Iniciação Científica - PIBIC
-
-### Monitoramento de poluentes atmosféricos para áreas de riscos de Manacapuru-AM
-
-Participação em projeto de iniciação científica voltado ao desenvolvimento de um sistema de baixo custo para **monitoramento de poluentes atmosféricos e detecção de focos de queimadas**.
-
-O projeto envolve o estudo de **IoT, sistemas embarcados, sensores, processamento de dados e georreferenciamento**, buscando desenvolver uma solução capaz de realizar monitoramento em tempo real.
-
-**Período:** 2026–2027
 
 
 
